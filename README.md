@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Isabela 
 
-<!--
-**patito123-bot/patito123-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudiante de Ingeniería de Inteligencia Artificial
 
-Here are some ideas to get you started:
+**Escuela Colombiana de Ingeniería Julio Garavito**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🐍 Sobre mí
+
+Soy estudiante de Ingeniería de Inteligencia Artificial apasionado por la programación, el análisis de datos y la creación de soluciones tecnológicas usando Python. Me gusta aprender nuevas herramientas, resolver problemas y desarrollar proyectos que tengan impacto real.
+
+---
+
+## 🔧 Tecnologías y herramientas
+
+* **Lenguajes:** Python (principal)
+* **Intereses:** IA, machine learning, ciencia de datos, automatización
+* **Herramientas:** Jupyter Notebook, Git/GitHub, entornos virtuales
+
+---
+
+## 📚 Actualmente aprendiendo
+
+* Fundamentos de inteligencia artificial
+* Algoritmos de machine learning
+* Buenas prácticas de programación en Python
+
+---
+
+## 🚀 Proyectos
+
+Aquí iré subiendo algunos proyectos destacados que vaya desarrollando durante mi carrera y aprendizaje personal.
+
+---
+
+## 📫 Contacto
+
+Si quieres ponerte en contacto conmigo:
+
+* GitHub: *(agrega tu usuario)*
+* Correo: *(tu correo institucional o personal)*
+
+---
+
+¡Gracias por visitar mi perfil! 😊
